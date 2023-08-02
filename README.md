@@ -5,4 +5,4 @@ Various experiments on llms - prototyping and trialling and musing
 
 ### Going through the Langchain AI Handbook:: https://archive.pinecone.io/learn/langchain/
 
-
+## deeplearning_ai contains notebooks from the DeepLearning.Ai Short Courses
