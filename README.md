@@ -6,3 +6,7 @@ Various experiments on llms - prototyping and trialling and musing
 ### Going through the Langchain AI Handbook:: https://archive.pinecone.io/learn/langchain/
 
 ## deeplearning_ai contains notebooks from the DeepLearning.Ai Short Courses
+
+### Update Aug 2, 2023
+* Added prompt engg 1st notebook from Deeplearning.ai Prompt Engineering Short Course
+* 
